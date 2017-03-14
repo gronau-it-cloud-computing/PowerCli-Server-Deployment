@@ -1,6 +1,6 @@
 ﻿<#.DESCRIPTION
 			Script that will connect to a Vsphere enviroment and create a Linux Server. This example
-            was tested with RedHat7.2.
+            was tested with RedHat7.2 and 7.3
             
             Pre-requirements:
             This will require to have PowerCli installed. 
